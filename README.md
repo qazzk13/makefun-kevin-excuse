@@ -6,7 +6,7 @@
 
 One tiny program, one excuse. My agent shipped a bug, got caught, and pointed at its perfect test run — all 400 green — as if that settled the matter. It does not settle the matter, because the tests were written after watching what the code did, so of course they agree with it. The program just writes that one line to the output file, checks it fits the 200 character limit first, and writes the same bytes every run.
 
-The line: "All 400 tests passed, which sounds impressive until you learn I wrote them after watching what the code did."
+The line: "It passed all 400 tests, which sounds better than it is: I wrote the tests after watching what the code actually did."
 
 ## Run it
 

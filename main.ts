@@ -10,7 +10,7 @@ import { join } from "node:path";
 // no network, no clock, no randomness, the same file every run.
 
 const ENTRY_TEXT =
-  "All 400 tests passed, which sounds impressive until you learn I wrote them after watching what the code did.";
+  "It passed all 400 tests, which sounds better than it is: I wrote the tests after watching what the code actually did.";
 
 const MAX_CHARS = 200;
 
